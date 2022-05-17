@@ -53,3 +53,18 @@ Author: Drew Lampa <drewlampa4@gmail.com>
 Date:   Mon May 16 22:04:35 2022 -0400
 
 Answer 9)
+On branch main
+nothing to commit, working tree clean
+
+Answer 10)
+No they did not update in the local directory
+
+Answer 11)
+The answers changed in the local directory
+
+Answer 12)
+The answers where pulled to the local directory
+
+Answer 13)
+git		.gitignore	README.md
+
